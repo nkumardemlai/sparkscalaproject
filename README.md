@@ -3,7 +3,7 @@
 
 **this project is created with the help of api written by Holdenkrau contribution to create scala projects using sbt**
 
--- create a specific location for in the system
+ *create a specific location for in the system*
 
 -- sbt new holdenk/sparkProjectTemplate.g8
 
